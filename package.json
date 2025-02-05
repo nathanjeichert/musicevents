@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "install": "npm install",
     "build": "tsc",
     "start": "node backend/index.js"
   },
